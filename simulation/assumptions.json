@@ -1,0 +1,56 @@
+{
+  "source": "NTSB (2019), HAR-19/03, section 2.2.1, printed pp. 40\u201341. https://www.ntsb.gov/investigations/AccidentReports/Reports/HAR1903.pdf",
+  "source_role": "Motivates examining braking delay. No event parameter below is a calibrated reconstruction.",
+  "illustrative_example": {
+    "speed_kmh": 72,
+    "distances_m": [
+      35,
+      50,
+      70
+    ],
+    "baseline_delay_s": 1.5,
+    "earlier_delay_s": 0.3,
+    "constant_deceleration_m_s2": 6
+  },
+  "grid": {
+    "speed_kmh": [
+      30,
+      40,
+      50,
+      60,
+      70
+    ],
+    "distance_m": [
+      20,
+      25,
+      30,
+      35,
+      40,
+      45,
+      50,
+      55,
+      60,
+      65,
+      70,
+      75,
+      80,
+      85,
+      90,
+      95,
+      100
+    ],
+    "constant_deceleration_m_s2": [
+      3,
+      4.5,
+      6,
+      7.5
+    ]
+  },
+  "limitations": [
+    "Assumed recognition at time zero in both conditions; detection and prediction failures are not simulated.",
+    "Fixed conflict line remains occupied; no pedestrian trajectory or evasive steering.",
+    "Instantaneous constant braking after delay; no brake build-up, jerk, gradient or tyre model.",
+    "No empirical human response distribution, driver-monitoring benefit or Level 2 versus Level 3 effectiveness test.",
+    "Grid counts are design scenarios, not probabilities; no chi-square or p-value for synthetic cases."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "question": "Among included ADS incident records, is reported operator category associated with an injury being reported?",
+  "null_hypothesis": "Operator category and binary reported injury outcome are independent in the included records.",
+  "alternative_hypothesis": "They are associated in the included records.",
+  "alpha": 0.05,
+  "n": 482,
+  "pearson_chi_square": 0.055019701932960935,
+  "degrees_of_freedom": 1,
+  "pearson_p_nominal": 0.8145480939536577,
+  "minimum_expected_count": 13.70954356846473,
+  "cramers_v": 0.010684042268589843,
+  "yates_chi_square": 0.004798536125800496,
+  "yates_p_nominal": 0.9447735372841969,
+  "fisher_two_sided_p_nominal": 0.8703700122684644,
+  "included_incidents_missing_same_incident_id": 0,
+  "included_incidents_missing_vehicle_identifier": 0,
+  "repeated_vehicle_identifier_groups": 53,
+  "maximum_incidents_per_vehicle_identifier_group": 3,
+  "interpretation_limit": "Nominal exploratory inference only. Expected counts pass, but independence is not established; repeated vehicles, fleet/time clustering, selection, confounding and missingness limit inference. This is not a Level 2 versus Level 3 comparison, a crash-rate comparison, or a test of takeover effectiveness.",
+  "one_incident_per_identifiable_vehicle_sensitivity": {
+    "n": 423,
+    "chi_square": 0.08782301902049819,
+    "df": 1,
+    "p_nominal": 0.7669631963450325,
+    "min_expected": 12.858156028368795,
+    "note": "Removes identified vehicle repetition; does not remove fleet/time confounding or establish independence. First means earliest recorded month; ties broken by incident key."
+  }
+}

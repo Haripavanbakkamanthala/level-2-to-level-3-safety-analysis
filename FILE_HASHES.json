@@ -1,0 +1,310 @@
+[
+  {
+    "path": ".gitignore",
+    "size": 50,
+    "sha256": "364d696af42754ef01aed618f9a7e5bef33853efe6016cc576c933b077a1eab9",
+    "git_blob_sha": "42fd39ce0d22526d2d66d83617299e5e37446a8a",
+    "binary": false
+  },
+  {
+    "path": "CORRECTIONS.md",
+    "size": 1048,
+    "sha256": "c235cb97b6588266aa15365052a1766be48020409ba726fe97bc9e66d5830a43",
+    "git_blob_sha": "87e1e8dc9426d08e4497391ec1cfcf4c6e95f0d6",
+    "binary": false
+  },
+  {
+    "path": "EVIDENCE.md",
+    "size": 3493,
+    "sha256": "b65efc7847318f72d795872eafa4ba0ee330dcb9629ccf284eb151f3a4578f81",
+    "git_blob_sha": "f8798631c42fd6e2872d9812b1e610d36765646e",
+    "binary": false
+  },
+  {
+    "path": "README.md",
+    "size": 5238,
+    "sha256": "33ae501f13fa83a4124a6c923d5cecb02fd9d97c4b642c592638290523e54faf",
+    "git_blob_sha": "bda438b8191ce3184aa5aa7a99681477530b3d68",
+    "binary": false
+  },
+  {
+    "path": "analysis.ipynb",
+    "size": 664555,
+    "sha256": "32f5e8ef835b0dcb44e4930c782becdd53c2aeb929fa1afee2a772c4ef907065",
+    "git_blob_sha": "eea823306cff494b2dec31bb3c8f615fa0579657",
+    "binary": false
+  },
+  {
+    "path": "data_sources.json",
+    "size": 454,
+    "sha256": "b36179088ea1283d460ce99c60536c31ab34ffcb5fdb09436bf7d40fea292090",
+    "git_blob_sha": "e198940ef207588832b24a4334123f45ade6a4a1",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/05_operator_category_injury.png",
+    "size": 107841,
+    "sha256": "445f2d5ce46e987cdc525d66d02427396d8c32f1c77c3f3ee6f3898d6873394f",
+    "git_blob_sha": "154e2a7ae2d4986eb26a06dc29671c43f08e26a3",
+    "binary": true
+  },
+  {
+    "path": "nhtsa/NHTSA_ADS_archive_raw.csv",
+    "size": 3943732,
+    "sha256": "cb2b38a21e2ce5c2337dfa0cffe8d6fce5e422cf93fe4c78942eec5cf72f41ba",
+    "git_blob_sha": "7b0e845ae1caab6d5271aa13491a322384684c26",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/analyse_nhtsa.py",
+    "size": 10136,
+    "sha256": "f9a62f9ca971cc69a6629795330c5f013499a74daf1e8c4d6894fa89fa1a3b8f",
+    "git_blob_sha": "4afd7d57a08acd91842dd99706f79da50c14932d",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/analysis_sample.csv",
+    "size": 90717,
+    "sha256": "4a925b730d6bc6b53203f7b1c29496b8d58a5edc884b041604f361eac0521a4d",
+    "git_blob_sha": "ea15f3e6acfd8a8b2bfc2310ecce98e0f606cdc1",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/cleaning_audit.json",
+    "size": 917,
+    "sha256": "76404ffe2cf5a7bf94101589ca35034df82e745492de4128b5788c89eb5d1d78",
+    "git_blob_sha": "a1dcbff359a46737a96d63c2b97e9cbb2ad8f3a7",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/expected_counts.csv",
+    "size": 139,
+    "sha256": "a873baca4b2b141b0e7b74ef3b31ca5d76de89b6916c826e8542aa430ef980d5",
+    "git_blob_sha": "99a7a354387fe7f80ed2682a9a7ddf70a0dcd46f",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/group_summary.csv",
+    "size": 293,
+    "sha256": "d21cdeb15984514df12475cfd752a74d004c5d5f695f612b6c0e24c07e2a35aa",
+    "git_blob_sha": "a8c078b2e74b656d78a57982b3d74d1caa98cd9b",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/incident_decision_log.csv",
+    "size": 268577,
+    "sha256": "be3bb65244d1f9da95dc66047066edb4d6ef3393fa6cd30fd133e38e538c27cb",
+    "git_blob_sha": "e6f2f2b372343a998c35f90e1ea56b3886ddae96",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/observed_counts.csv",
+    "size": 94,
+    "sha256": "2db2a5116e50c118361adf23ea3bd706b31b975452a4b829507eeae8e69036a9",
+    "git_blob_sha": "217aba363ef4bafe80041724b5a0863631c6688a",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/sensitivity_one_incident_per_vehicle_counts.csv",
+    "size": 93,
+    "sha256": "582ed5cf8736d0d98303d0a9f92e75287cfdc098d01db71a60504403d71a5785",
+    "git_blob_sha": "9b1ebd31c24ae705836df380ec1079b1ccfb0534",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/sensitivity_one_incident_per_vehicle_sample.csv",
+    "size": 84343,
+    "sha256": "5cacf58f6ef0ed188d670677788ca05d50e5beac98d9499d9f13512613889eb0",
+    "git_blob_sha": "54439db28118711d74843ac3dc3434f8f1ca4c78",
+    "binary": false
+  },
+  {
+    "path": "nhtsa/statistical_results.json",
+    "size": 1616,
+    "sha256": "17f6c78abfbc791bdd2e5bb34727621fd4441665780a5d30b90487b70f8e1306",
+    "git_blob_sha": "15e4e258b041bc51ea92bbd46268903fd5eb34b7",
+    "binary": false
+  },
+  {
+    "path": "requirements.txt",
+    "size": 81,
+    "sha256": "635c9e289cbde66647bb1addc7a670800a8f7d08d2d6e2b9c7c009a417f3690d",
+    "git_blob_sha": "778cba34f46eba84df2537769bf3d3202f106d93",
+    "binary": false
+  },
+  {
+    "path": "simulation/01_braking_comparison.png",
+    "size": 79197,
+    "sha256": "27f798894100eaebaa4fdab1a0872910a6cbc8c7d25392efe16a15b282be0899",
+    "git_blob_sha": "38ba8b1e0dd3a51ab2a69b0ccd2b391d9cc070b1",
+    "binary": true
+  },
+  {
+    "path": "simulation/02_delay_sensitivity.png",
+    "size": 79287,
+    "sha256": "c72e886b835c3b5e10f7473f077d672879d20fd828ec983b620967c980c9d07d",
+    "git_blob_sha": "30954490e452fa7a9f93025be97158cd4f12e3ad",
+    "binary": true
+  },
+  {
+    "path": "simulation/README.md",
+    "size": 1205,
+    "sha256": "a1500265abec6dd466667deb795d3c991956006e7315dab58adff0d7fd915e41",
+    "git_blob_sha": "9fb6e59d322d98d945faa1575f710369e1ccdfd1",
+    "binary": false
+  },
+  {
+    "path": "simulation/assumptions.json",
+    "size": 1392,
+    "sha256": "4d6d50ed53f44d0ae0032fd24bce77ec549b78b1ed92d8398db1ece79ca1d3e3",
+    "git_blob_sha": "907c45603b00a14d48b522c2133cd61bf5e3a114",
+    "binary": false
+  },
+  {
+    "path": "simulation/braking_model.py",
+    "size": 894,
+    "sha256": "27e1e80ce30d7bd063bf5109c9c572dd46b87a7e5731286c1ba901317d214658",
+    "git_blob_sha": "03fe4285ad80945d2c6ea207ace29d72cc106516",
+    "binary": false
+  },
+  {
+    "path": "simulation/delay_sensitivity.csv",
+    "size": 6724,
+    "sha256": "8341e8b5921dfdd246f4b601ce25889a1a558a892b6a3f6b61edb7b93343d5a4",
+    "git_blob_sha": "3c5f0cfbacc4b405acf5f0480ba3ac9093c90107",
+    "binary": false
+  },
+  {
+    "path": "simulation/example_results.csv",
+    "size": 629,
+    "sha256": "dacc966830656b02d4367d6ee5259b97994f9395788f5c1d82761bab53abe8e6",
+    "git_blob_sha": "c47395f0291b8faa765d2e60cedace413ec46cf5",
+    "binary": false
+  },
+  {
+    "path": "simulation/scenario_grid.csv",
+    "size": 16910,
+    "sha256": "e6eebad533777e47bb1dca9370110fc1e2d20224943f603d2dc491bebc21641a",
+    "git_blob_sha": "88c4fb719469018a90d2aeb7565f7c49c9f67b99",
+    "binary": false
+  },
+  {
+    "path": "simulation/summary.json",
+    "size": 252,
+    "sha256": "5865d1ba39ef3b70facace4e6aa0698e27b8789675e27a141d97e3f8ac3567a6",
+    "git_blob_sha": "6740e9eec03af3f4a250580e792f8e87e66fa4c0",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/01_vehicle_speed.png",
+    "size": 170956,
+    "sha256": "6304f42b9e535d7284d2df2dcf8da4d9f2c79837354da34e6bae9eea12fde1af",
+    "git_blob_sha": "c5854ab267d0cfa833d5a524cf0477b1b994d48c",
+    "binary": true
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/02_preimpact_speed_and_gaze.png",
+    "size": 64275,
+    "sha256": "c9638c993bf2cddf18753248baa84c2fad045ef74ca4dbffdb9290b5036264fe",
+    "git_blob_sha": "cbc9f2c520d3e7613d368d62debca8bd0d5d600c",
+    "binary": true
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/03_final_window_glances.png",
+    "size": 40091,
+    "sha256": "ef232be332840462d1fb438a8434f96d92c9345844823d29fe314f929adefe48",
+    "git_blob_sha": "9937a18675f831fcfe820f834036652080d7fc44",
+    "binary": true
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/cleaned_source_rows.csv",
+    "size": 355074,
+    "sha256": "f067ddf5ebc331d900823512cb2b4b8fd24e53bb6abc545a401779daf51273fa",
+    "git_blob_sha": "667a28bb63ae71335cbd65823b21153e66218573",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/cleaning_audit.json",
+    "size": 1574,
+    "sha256": "455920d6879cffbbaa1e3530920bd316a44ce67acd960915c81fbcaefb743f57",
+    "git_blob_sha": "8b8781349347b336c24abd5edf81c84c17dca912",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/duration_summary.csv",
+    "size": 406,
+    "sha256": "36db40a58ae095a592ac0baeb9bd7f6199af7de9a573e8ce6762545c78f85e10",
+    "git_blob_sha": "e972989fdeb6429a1ab5fc8e735473a9d0242840",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/final_window_glances.csv",
+    "size": 977,
+    "sha256": "1688080c8d00b6963f9e1c69530db1db1d6f64371fb51caa94a836102c5844be",
+    "git_blob_sha": "065afe12ffe81bb2fcf20aa0d1054f3478344b99",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/final_window_summary.json",
+    "size": 153,
+    "sha256": "6012f45ec7afb2959a2504b9f1106bc9282c24c2187aabd235e026506c6080f6",
+    "git_blob_sha": "eb10bae1c104f4e5850b2d2979cb7a4647e0c461",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/gaze_events_preserved.csv",
+    "size": 44606,
+    "sha256": "c8f484f94a46b227addbad93e4ecc0d7b15c8dea89fd03ff235488ed922300b6",
+    "git_blob_sha": "cf92bac5bb2756e9552e5906d156dfd559237673",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/gaze_intervals_explicit.csv",
+    "size": 22561,
+    "sha256": "cef643062d8785317849cbb34dd8bce0c64452c56233e586f21edc9ede2cd2d5",
+    "git_blob_sha": "544cc51d32f6a4f832ecddaf1aea50068dbabf78",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/gaze_transition_gaps.csv",
+    "size": 3007,
+    "sha256": "045fa199ec368fb3b31aa93dfb69f0fc90d8f295eb0f0d97d750d5b084514b39",
+    "git_blob_sha": "abad78f834eabcd3721ac57978c256f625a0b7c4",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/original_ntsb_attachment.csv",
+    "size": 183545,
+    "sha256": "be2acba62e8e963850bf04dadbbdc3640d8172c8a71a4bb3b592bdc2d9fa592f",
+    "git_blob_sha": "0c982e89ef5a2f401a0791c69cdd35e919e491f6",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/Uber_Tempe_Analysis/vehicle_samples.csv",
+    "size": 308422,
+    "sha256": "588862cfb92ca6e80c731469eb0bc3e0eea1c51c33f8815d4d7062acf84a3a92",
+    "git_blob_sha": "fc7e329e4da65fc7def8de400ea8f9b2b08b0093",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/analyse_final_window.py",
+    "size": 1243,
+    "sha256": "6ea7a72799bf6ebbb70000a0150509c1d542b9207d4ae4b3c98420c7a10cea57",
+    "git_blob_sha": "3cec4359b67a4bd10ae8d51c1101bf48884f90c4",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/original_ntsb_attachment.csv",
+    "size": 183545,
+    "sha256": "be2acba62e8e963850bf04dadbbdc3640d8172c8a71a4bb3b592bdc2d9fa592f",
+    "git_blob_sha": "0c982e89ef5a2f401a0791c69cdd35e919e491f6",
+    "binary": false
+  },
+  {
+    "path": "uber_tempe/uber_tempe_analysis.py",
+    "size": 8429,
+    "sha256": "9783e54fdfaa1a587668dc745bba37a40329f4b92cf629a675bab683ba7c0741",
+    "git_blob_sha": "432ab96b17ffe0c7b4283c4fe7c06cdcf2acb9b9",
+    "binary": false
+  }
+]

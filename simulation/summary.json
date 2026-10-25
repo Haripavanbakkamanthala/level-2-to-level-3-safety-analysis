@@ -1,0 +1,8 @@
+{
+  "grid_scenarios": 340,
+  "baseline_line_reached": 103,
+  "earlier_line_reached": 45,
+  "additional_stops_before_line": 58,
+  "checks_passed": 7,
+  "meaning": "Deterministic scenario counts, not accident probabilities or independent observations."
+}

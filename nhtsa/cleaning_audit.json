@@ -1,0 +1,24 @@
+{
+  "source_url": "https://static.nhtsa.gov/odi/ffdd/sgo-2021-01/Archive-2021-2025/SGO-2021-01_Incident_Reports_ADS.csv",
+  "download_date": "2026-10-22",
+  "raw_sha256": "cb2b38a21e2ce5c2337dfa0cffe8d6fce5e422cf93fe4c78942eec5cf72f41ba",
+  "raw_rows": 2295,
+  "raw_columns": 137,
+  "latest_report_rows": 1899,
+  "superseded_report_versions_removed": 396,
+  "incident_groups": 1520,
+  "additional_latest_reports_collapsed": 379,
+  "incident_id_missing_latest_report_rows": 12,
+  "decisions": {
+    "Operator category outside the two specified groups": 958,
+    "Included": 482,
+    "Engagement not consistently ADS": 36,
+    "Operator categories disagree across reports": 17,
+    "Injury outcome missing or unknown": 15,
+    "Incident identifier missing; duplication cannot be checked": 11,
+    "Binary injury outcomes disagree across reports": 1
+  },
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "scipy": "1.17.0"
+}

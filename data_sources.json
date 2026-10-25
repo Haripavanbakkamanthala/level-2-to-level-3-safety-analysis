@@ -1,0 +1,12 @@
+[
+  {
+    "path": "uber_tempe/original_ntsb_attachment.csv",
+    "sha256": "be2acba62e8e963850bf04dadbbdc3640d8172c8a71a4bb3b592bdc2d9fa592f",
+    "status": "unchanged source data; see README for original publisher and source"
+  },
+  {
+    "path": "nhtsa/NHTSA_ADS_archive_raw.csv",
+    "sha256": "cb2b38a21e2ce5c2337dfa0cffe8d6fce5e422cf93fe4c78942eec5cf72f41ba",
+    "status": "unchanged source data; see README for original publisher and source"
+  }
+]

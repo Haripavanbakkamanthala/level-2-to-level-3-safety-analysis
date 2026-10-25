@@ -1,0 +1,483 @@
+incident_key,report_ids,reporting_entities,incident_dates,operator_categories,injury_categories,operator_group,injury_outcome,vehicle_ids,same_incident_id_missing,decision
+005df94ebd26d4e,30270-2793,Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,fcd7d30508e9fce,False,Included
+0094d46307334a0,30412-6614 | 540-6629,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,04d7711d5ebebe0,False,Included
+0154ad8a3896f31,30270-3011,Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,778fffc33261129,False,Included
+01fe1096ad10e2c,30610-5224,"Zoox, Inc.",MAR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,95e36aed306c214,False,Included
+027edaee5964dad,30412-2476 | 540-2512,"Cruise LLC | General Motors, LLC",FEB-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,4ede896caa0dd6e,False,Included
+0348df51e94570a,30270-2198 | 30270-2226,Waymo LLC,JAN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6e7c9396161664d,False,Included
+036be89379840a4,30270-8219 | 30531-8220,Transdev Alternative Services | Waymo LLC,JUL-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f97408305266b85,False,Included
+03d5dd9340f2d40,30270-1920 | 30531-1943,Transdev Alternative Services | Waymo LLC,NOV-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0f2b5c50f367aad,False,Included
+03f712880e4d552,30412-6617 | 540-6632,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,ba7367055695bf8,False,Included
+04eeb18cf84cda0,30590-6382,Apple Inc.,SEP-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b55f1a264bcdd2a,False,Included
+04f2cedde6aabb4,30290-4128 | 502-4132,Argo AI | Ford Motor Company,OCT-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,44e401161509e26,False,Included
+0585384b4e974df,30412-3580 | 540-3643,"Cruise LLC | General Motors, LLC",JUL-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,12a4d02d0edc3a9,False,Included
+059363eb92eeb8d,30412-2885 | 540-2925,"Cruise LLC | General Motors, LLC",APR-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,32757d7928fd658,False,Included
+05fabfc423de978,30610-10294,"Zoox, Inc.",MAR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2170c7f992d6d81,False,Included
+06b540225fae953,30610-7291,"Zoox, Inc.",FEB-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,18e0636c317f80e,False,Included
+0731be2bcb8ffde,30290-2180 | 502-2178,Argo AI | Ford Motor Company,JAN-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,1a89dae466c3bdd,False,Included
+07bb2ce18fb1861,30412-5459 | 540-5489,"Cruise LLC | General Motors, LLC",APR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,bea6c77e2f53859,False,Included
+07df46993d3d218,30412-3084 | 540-3085,"Cruise LLC | General Motors, LLC",JUN-2022,Remote (Commercial / Test),Minor,Remote only,Injury reported,67055320714abc5,False,Included
+0840f6bd96c46ca,30270-8823 | 30531-8902,Transdev Alternative Services | Waymo LLC,SEP-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,df813095ba967dd,False,Included
+0899b0a38f084ba,30270-3323,Waymo LLC,JUL-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e801f0c281cadd6,False,Included
+0b01b063261158e,30412-5831 | 540-5942,"Cruise LLC | General Motors, LLC",JUN-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,6be5a19a89a0646,False,Included
+0bb88b017273830,30413-6684,May Mobility,OCT-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1d51bed7f4387da,False,Included
+0bbd9f4a21e80a6,30290-3913 | 502-3914,Argo AI | Ford Motor Company,SEP-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9a0d2b6602a2ffb,False,Included
+0bdcd0947a69992,30412-5242 | 540-5264,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,08f69614e937c8f,False,Included
+0c7e3f0ce19fb32,30410-8493 | 669-8496,Hyundai Motor America | Motional,SEP-2024,In-Vehicle (Commercial / Test),Moderate,In-vehicle only,Injury reported,8baac7f59ef4f0c,False,Included
+0c8da6d17337ae5,30412-6039 | 540-6070,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,d1555c584628ca6,False,Included
+0cb307e3099fa7e,30270-1498 | 30531-1505,Transdev Alternative Services | Waymo LLC,SEP-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,69f9ac55561d6ff,False,Included
+0d0ae62c0bf671d,30270-1500 | 30531-1507,Transdev Alternative Services | Waymo LLC,SEP-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,127631507705ca2 | 6e2a7f46ce25f9a,False,Included
+0d5ca89e842c2f1,30792-9317,WeRide Corp,NOV-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,19fb8b9d72e2ce2,False,Included
+0d793f16e8354d9,30610-1441,"Zoox, Inc.",SEP-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,92c53b3ee15a475,False,Included
+0ea292ae35cf3cd,30792-5565,WeRide Corp,MAY-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ceb63bb34dc2166,False,Included
+0f177736731c7b2,30531-7368,Transdev Alternative Services,MAR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,abe8cab2679e248,False,Included
+0f204a37a664e35,30610-9577,"Zoox, Inc.",DEC-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,d0d9d68cb7719b1,False,Included
+1016e5c64e50462,30410-4799,Motional,JAN-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ed2dae19cdf8cb4,False,Included
+112c82a378bbe3f,30270-5998 | 30531-5999,Transdev Alternative Services | Waymo LLC,JUL-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4edb4192b29d35b,False,Included
+11b1d6ea16682dc,30412-6044 | 540-6079,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,e2e92344a0e024c,False,Included
+1247cf7e78f61f6,30391-6563 | 988-6565,Kodiak Robotics | PACCAR Incorporated,OCT-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c95b3ff7fcd3ee1,False,Included
+1255ba62145d6e6,30270-5855 | 30531-5871,Transdev Alternative Services | Waymo LLC,JUL-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0f967d0ef305434,False,Included
+1348f20bffe6753,30412-4829 | 540-4832,"Cruise LLC | General Motors, LLC",FEB-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,3b9b2aa115ee9b6,False,Included
+149e02a12464f84,30290-1071,Argo AI,JUL-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,85841ac8ed73351,False,Included
+1554418482f70b1,30412-5035 | 540-5060,"Cruise LLC | General Motors, LLC",FEB-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,1321c26de5aba76,False,Included
+157c3bf1bb69649,30412-5287 | 540-5296,"Cruise LLC | General Motors, LLC",APR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,8aae92901672e74,False,Included
+15e150e3f8f22d0,30290-1642 | 502-1697,Argo AI | Ford Motor Company,OCT-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a5b2a19801a72a3,False,Included
+16261e64b50feb6,30270-5584 | 30531-5605,Transdev Alternative Services | Waymo LLC,APR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,415510c86f8a0cf,False,Included
+167c0e19aa7af30,30412-6597 | 540-6644,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,5110d23f90cc3a5,False,Included
+16eb59076e0f085,30413-7880,May Mobility,MAY-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ab0fa81ec7387bb,False,Included
+1760af8f89bba3e,30270-6344,Waymo LLC,AUG-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,71efe539834c36e,False,Included
+17c618d238f493f,30270-4104 | 30531-4108,Transdev Alternative Services | Waymo LLC,OCT-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ecbf8e4637f763d,False,Included
+188a9149e534fe8,30270-5320 | 30531-5328,Transdev Alternative Services | Waymo LLC,MAR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e736a273624743b,False,Included
+18b6569f303f7e1,30270-5757 | 30531-5768,Transdev Alternative Services | Waymo LLC,MAY-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a96a4dfc1ceef90,False,Included
+192521d01c49ce2,30270-3635 | 30531-3662,Transdev Alternative Services | Waymo LLC,JUL-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a4da19aa3243c05,False,Included
+197ec69939516db,30610-4384,"Zoox, Inc.",NOV-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1db0801a222a5aa,False,Included
+19817d09a00fa8f,30610-1281,"Zoox, Inc.",SEP-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,cd789207da93b65,False,Included
+1988e25397f633d,30270-9476 | 30531-9520,Transdev Alternative Services | Waymo LLC,DEC-2024,In-Vehicle (Commercial / Test),Moderate,In-vehicle only,Injury reported,50847c2836d5087,False,Included
+19bef0b9be25744,30290-3985 | 502-4026,Argo AI | Ford Motor Company,SEP-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,27e565631721655,False,Included
+1a3b3cd2f637988,30270-6343,Waymo LLC,AUG-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,778fffc33261129,False,Included
+1ab108e2dabaab4,30270-8889 | 30531-8905,Transdev Alternative Services | Waymo LLC,SEP-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0c7d2b6074c7190,False,Included
+1b11511eb3f2646,30610-7111,"Zoox, Inc.",JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,473ebdf4b3aedda,False,Included
+1bfb56a11a24d34,30610-9768,"Zoox, Inc.",JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,592789b65942921,False,Included
+1d245f18d9df615,30413-5396,May Mobility,APR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,cb6e38b363be262,False,Included
+1d5d2a8518e3fca,30413-8861,May Mobility,SEP-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,12b7d35729a047b,False,Included
+1d63fe48b844c16,30290-2481 | 502-2479,Argo AI | Ford Motor Company,MAR-2022,In-Vehicle (Commercial / Test),Moderate,In-vehicle only,Injury reported,1a89dae466c3bdd,False,Included
+1ddae575afe5d5a,30310-3698 | 30414-3650 | 30414-3903,Easymile Inc. | First Transit,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,da2b2192cb706f3,False,Included
+1ddcd8547f32de0,30610-5714,"Zoox, Inc.",MAY-2023,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,2401d351bdc80d9,False,Included
+1e1418541038c4a,30610-8956,"Zoox, Inc.",OCT-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,b1784ffeed4c799,False,Included
+1e597bea8a8f186,30412-6280 | 540-6315,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,e8b1d7c6034b84e,False,Included
+1e802a0a2cb0266,30610-3752,"Zoox, Inc.",SEP-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2bb8d67435b9951,False,Included
+1fbb1b06277fa39,30530-8087 | 988-8119,"Aurora Operations, Inc. | PACCAR Incorporated",JUN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e1dfebf626e3ebd,False,Included
+21a6afd753cdcd5,30290-3800 | 502-3866,Argo AI | Ford Motor Company,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c54df74e3c62f9e,False,Included
+21b81cebac44141,30270-9558 | 30531-9699,Transdev Alternative Services | Waymo LLC,DEC-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,65b399b874ada44,False,Included
+21c0dd086884a6c,30413-8305,May Mobility,JUL-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,02898e6342da9fa,False,Included
+2290df8540c1deb,30610-8373,"Zoox, Inc.",JUL-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,592789b65942921,False,Included
+242678102337149,30530-9960 | 988-9972,"Aurora Operations, Inc. | PACCAR Incorporated",JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ee340784e6b5cdb,False,Included
+250a095dea0e0fd,30412-6145,Cruise LLC,AUG-2023,Remote (Commercial / Test),Minor,Remote only,Injury reported,51ea6e175307551,False,Included
+27528ff2c99e583,30270-4274 | 30531-4278,Transdev Alternative Services | Waymo LLC,OCT-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4a17d6b39e90898,False,Included
+276c44175c4e6fa,30410-10072 | 669-10260,Hyundai Motor America | Motional,FEB-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,cbf168dd2910c18,False,Included
+276f98fc839116e,30412-6436 | 540-6451,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,28c22c2aacc6ca6,False,Included
+289362c589bd4da,30412-6596 | 540-6642,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,438c22f3ff264b2,False,Included
+28a50d58f41e81d,30792-6492,WeRide Corp,SEP-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ceb63bb34dc2166,False,Included
+28aee38d1d3ed89,30610-4810,"Zoox, Inc.",FEB-2023,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,5e28e7f4219df90,False,Included
+291b94613158d04,1420-7914,"Volkswagen Group of America, Inc.",MAY-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,fe576f7e0cb214e,False,Included
+2926e5994b7c3a5,30792-1699,WeRide Corp,NOV-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,efc5d61366657a2,False,Included
+299b672f88b96f3,30412-6274 | 540-6310,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,ae17dc3a94b6763,False,Included
+29c24607230435e,30413-9109,May Mobility,OCT-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,d16e0ebfe3b6490,False,Included
+2aa124cfd4ca325,30610-2482,"Zoox, Inc.",FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,825a589bfc9c427,False,Included
+2b45b757c05a1e4,30412-6037 | 540-6058,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,388f56b7b973d30,False,Included
+2bbc30ea7de3b1b,30270-2328,Waymo LLC,JAN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,82ca7b5717c14e4,False,Included
+2c0ce558c1d4917,30610-8467,"Zoox, Inc.",AUG-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,149afc762790a30,False,Included
+2d4a3a2b53be493,30270-5324 | 30531-5331,Transdev Alternative Services | Waymo LLC,MAR-2023,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,11bc4fb24b37091,False,Included
+2e10aa5924c3a69,30410-9752 | 669-9871,Hyundai Motor America | Motional,JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,7809e9bbbfa8286,False,Included
+2ef7294be596ddb,30391-3678 | 30391-3808 | 988-3684,Kodiak Robotics | PACCAR Incorporated,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f8d0946bbb70e83,False,Included
+2fa56e3fae57fff,30410-9857 | 669-10258,Hyundai Motor America | Motional,FEB-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ea1383b24e0401b,False,Included
+30095ee7921bf41,30610-7465,"Zoox, Inc.",MAR-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,c1decd69a709a61,False,Included
+30ea25a102ed6d6,30610-9722,"Zoox, Inc.",JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,394fe1d76abad46,False,Included
+3141a22a23dc07b,30412-6441 | 540-6461,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,a61d22beafb2ba5,False,Included
+31698dec0f30d7d,30270-1728 | 30531-1744,Transdev Alternative Services | Waymo LLC,OCT-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3f5f631b7210b62,False,Included
+330b02ca7bf113d,30270-2554,Waymo LLC,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3e2c94c7b8660e0,False,Included
+3325b810acc75a3,30270-7534 | 30531-7545,Transdev Alternative Services | Waymo LLC,MAR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,250836aa358d628,False,Included
+3349adfc6b67eb6,30412-5140 | 540-5141,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,fb03f78da2058ae,False,Included
+33e8d4e5afdbbd8,30610-3158,"Zoox, Inc.",MAY-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,faa7fd344bfdae8,False,Included
+346b753bc1fc685,30290-3797 | 502-3864,Argo AI | Ford Motor Company,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ffc5e4357bf2326,False,Included
+34a2a91e7ebe7b8,30412-6052 | 540-6056,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,0a5adc25309be27,False,Included
+34e9268c40d9f69,30412-5624 | 540-5639,"Cruise LLC | General Motors, LLC",MAY-2023,Remote (Commercial / Test),Minor,Remote only,Injury reported,9378265a4fb8fef,False,Included
+350127996a9c99d,30412-6160 | 540-6163,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,bdffe07c469b491,False,Included
+3577e4ade5fce24,30412-5980 | 540-5988,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,f9ad565040b41ff,False,Included
+36eaf89cd2651b4,30412-6275 | 540-6306,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,d8c54ca75c4ad96,False,Included
+3759781d335193e,30412-16,Cruise LLC,JUL-2021,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,c25b8fa9390e19b,False,Included
+37db47ec7473bdb,30610-10823,"Zoox, Inc.",APR-2025,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,f08f39cae35f65c,False,Included
+382e76b026b6400,30270-5325 | 30531-5335,Transdev Alternative Services | Waymo LLC,MAR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9f856ec3c68a0d1,False,Included
+384e51a74ec101e,30270-4505 | 30531-4506,Transdev Alternative Services | Waymo LLC,DEC-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3992c1b3baeaf38,False,Included
+387fb65aeb5202f,855-5055,"Mercedes-Benz USA, LLC",FEB-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,19247ac4efdcbaf,False,Included
+38b526747d0f6d0,30270-4708 | 30531-4721,Transdev Alternative Services | Waymo LLC,DEC-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e3f4abc806213fd,False,Included
+38c4b32541f4122,30412-6040 | 540-6072,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,09cff9e5f1f1e9f,False,Included
+38c8a93b3f13949,30290-3135 | 502-3140,Argo AI | Ford Motor Company,JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,5135f43efb33b58,False,Included
+3959ce860893cce,30530-8579 | 988-8590,"Aurora Operations, Inc. | PACCAR Incorporated",SEP-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e22c01c254942a3,False,Included
+39987aac7f64fd3,30530-7680 | 988-7703,"Aurora Operations, Inc. | PACCAR Incorporated",APR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ee340784e6b5cdb,False,Included
+3af30c276bb69b3,30610-4385,"Zoox, Inc.",NOV-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,31b1818df0c9fce,False,Included
+3b559d83bff3844,30412-4511 | 540-4524,"Cruise LLC | General Motors, LLC",DEC-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,7f0cd20edfcc133,False,Included
+3b95fade2333295,1306-3355 | 30413-3138,May Mobility | Toyota Motor Engineering & Manufacturing,MAY-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3b9ab2e732bb69f,False,Included
+3ba6e26d74e6f93,30410-7276 | 669-7320,Hyundai Motor America | Motional,FEB-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f1f9bc844488e5d,False,Included
+3bc34604bd403d1,30412-6445 | 540-6468,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,d1dc1e37d4e7591,False,Included
+3bcb829bf72a6f6,30610-1080,"Zoox, Inc.",JUL-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a473192087e29b3,False,Included
+3c16270cbee19db,30590-3431,Apple Inc.,JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f2b11b05513e165,False,Included
+3cad4d71a6699b8,30270-6340,Waymo LLC,AUG-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a96a4dfc1ceef90,False,Included
+3e2bdafd3d96829,12381-3438 | 30330-3482,"Daimler Trucks North America, LLC | TORC Robotics, Inc.",JUL-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,333b3dc2fdd5341,False,Included
+3f31d9494b5ff0b,30610-1732,"Zoox, Inc.",OCT-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,8cb71719e87c23f,False,Included
+3ff142802a5fce9,30270-6522 | 30531-6533,Transdev Alternative Services | Waymo LLC,SEP-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6e7c9396161664d,False,Included
+40a6c193304ddb4,30530-7141 | 988-7317,"Aurora Operations, Inc. | PACCAR Incorporated",FEB-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6a9cdbc8a8c9586,False,Included
+421b580a5088b18,30412-5708 | 540-5729,"Cruise LLC | General Motors, LLC",MAY-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,6b91ce8b8021f2c,False,Included
+42a6ee3cc17dddb,30610-6592,"Zoox, Inc.",NOV-2023,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,1ad5c4088dedf55,False,Included
+43b4f86310fe930,30610-9120,"Zoox, Inc.",OCT-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b190e74ca690dea,False,Included
+445549ec1774083,30413-6032,May Mobility,JUL-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,285ccaeedd1a80e,False,Included
+45f715e92eb4757,30270-1922 | 30531-1941,Transdev Alternative Services | Waymo LLC,NOV-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c0bc3685a7d18ca,False,Included
+45ffa3dbfb91527,30610-9137,"Zoox, Inc.",OCT-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b4ec7c2d74c9bab,False,Included
+460289782aa5d13,30530-6818 | 988-6859,"Aurora Operations, Inc. | PACCAR Incorporated",NOV-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,eef7ddcb9ef4832,False,Included
+460fab6d7160fd9,30610-7464,"Zoox, Inc.",MAR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,46f9bd4d632bca8,False,Included
+462947832bd2caa,30270-1786 | 30270-1831 | 30531-1796,Transdev Alternative Services | Waymo LLC,NOV-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f97408305266b85,False,Included
+467edb2f2766c58,30270-6339,Waymo LLC,AUG-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,d1bf148fd6c821c,False,Included
+469cd8d228115fc,30270-2895 | 30531-2902,Transdev Alternative Services | Waymo LLC,MAY-2022,In-Vehicle (Commercial / Test),Moderate,In-vehicle only,Injury reported,c59cc1317356bf4,False,Included
+46e037718707dda,30270-3851 | 30531-3883,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,03a8719f5e6a313,False,Included
+47d9acb9a1f666d,30412-6278 | 540-6313,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,c4da4bc8f25fc58,False,Included
+4848631652e9672,30412-6528 | 540-6530,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),Moderate,Remote only,Injury reported,3c845ca0f22b4b3,False,Included
+4878736008532f6,30412-5458 | 540-5488,"Cruise LLC | General Motors, LLC",APR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,f7acc9b8893549e,False,Included
+488a8ae4eedfb82,30270-1727 | 30531-1742,Transdev Alternative Services | Waymo LLC,OCT-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4e6dc7156efb5a6,False,Included
+48d8ef946e000b8,30291-7765,Nuro,MAY-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,19dfbab6b1b9153,False,Included
+4a83312a10c2a30,540-6151,"General Motors, LLC",AUG-2023,Remote (Commercial / Test),Minor,Remote only,Injury reported,51ea6e175307551,False,Included
+4aa11f8103e3b99,30270-2556,Waymo LLC,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6928114ae21e747,False,Included
+4b9badd8c2314e0,30711-2666,Pony.ai,MAR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3c0a1911f17aec1,False,Included
+4c457674d24ef64,30450-6958,Ghost Autonomy Inc.,JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,fa0c528fc9bec29,False,Included
+4c753d1707263d0,30412-5136 | 540-5137,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,76a3f9b4fc1ff65,False,Included
+4ce5e32b26da9ff,30410-9946 | 669-10259,Hyundai Motor America | Motional,FEB-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2d388d4948c1138,False,Included
+4cfdaf92efc44d4,30412-6276 | 540-6308,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,4f77fc9ca442498,False,Included
+4da91e509f90137,30270-7725 | 30531-7732,Transdev Alternative Services | Waymo LLC,APR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b7b40f70f5e3f4f,False,Included
+4e4a38ea028e125,30270-1923 | 30531-1940,Transdev Alternative Services | Waymo LLC,NOV-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6809bca2e95dc4f,False,Included
+504836ad1f3cbe3,30270-9428,Waymo LLC,NOV-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3e2c94c7b8660e0,False,Included
+50c30db70309820,30530-7892 | 988-7916,"Aurora Operations, Inc. | PACCAR Incorporated",MAY-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,34e8ed3ada04f36,False,Included
+50cd58141874683,30630-6900,Ambarella,DEC-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,36780e8f27d818e,False,Included
+50de63f80743bbd,30610-2584,"Zoox, Inc.",MAR-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,1ccf97db22289e8,False,Included
+51bfbb4becf2e95,30412-6440 | 540-6455,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,d5b14d5f29ad075,False,Included
+528bba0c1e9460a,30490-6590 | 30490-6821,"Beep, Inc.",NOV-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,166df047b432dec,False,Included
+535a3d4be962938,30610-11103,"Zoox, Inc.",MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9ce29755988d0d6,False,Included
+558988ec035939d,1306-1247 | 30413-1206,May Mobility | Toyota Motor Engineering & Manufacturing,AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0eecc7fa6ddc4ad,False,Included
+558b2f6cb423a8b,30412-6175 | 540-6178,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),Moderate,Remote only,Injury reported,4f6dffba14768a2,False,Included
+55bb803a6b7193a,30610-7293,"Zoox, Inc.",FEB-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c8c8e2008bc71a8,False,Included
+5628c7d47cd45e9,30270-4485 | 30531-4494,Transdev Alternative Services | Waymo LLC,NOV-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3ec8539482cc8b0,False,Included
+57992d8bb01c719,30610-11098,"Zoox, Inc.",MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e63e1f53a69108a,False,Included
+57c001739109f42,30412-6616 | 540-6630,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,4c9d10afb646c6f,False,Included
+57cf0d88fbb5190,30270-2774,Waymo LLC,MAR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0c7d2b6074c7190,False,Included
+57e9040c5de3c46,30610-3072,"Zoox, Inc.",JUN-2022,In-Vehicle (Commercial / Test),Moderate,In-vehicle only,Injury reported,08a1b2756b024f9,False,Included
+58ed5a4d4e93504,30391-10111 | 988-9975,Kodiak Robotics | PACCAR Incorporated,FEB-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,fbd7a440e34169b,False,Included
+593c74a00dde78e,30270-9282 | 30531-9283,Transdev Alternative Services | Waymo LLC,DEC-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,39cc9faced8effe,False,Included
+594c914927316a8,30270-10660,Waymo LLC,MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f97408305266b85,False,Included
+59e45d877dc8e66,30270-2775,Waymo LLC,MAR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,5a468e179f46349,False,Included
+5a3e624e03f04e5,30412-6437 | 540-6452,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,73175f4f70a81a7,False,Included
+5ab71fb3ca70aad,30270-4906 | 30531-4907,Transdev Alternative Services | Waymo LLC,FEB-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,539ccc1f53d0028,False,Included
+5b390c5a66d9694,30412-6279 | 540-6311,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,009eccb2ce49c6d,False,Included
+5b397bdb94b6ab2,30291-7039,Nuro,JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4ff43aee6ffcf26,False,Included
+5b891004a3bea04,30412-6384 | 540-6393,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,16abfee0c78f678,False,Included
+5b9c3b0562e5b31,30412-5461 | 540-5491,"Cruise LLC | General Motors, LLC",APR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,86ea5dc268d8537,False,Included
+5bc1b9d65a04bdb,30610-9965,"Zoox, Inc.",JAN-2025,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,f22a81759914ade,False,Included
+5c272086feb4f9f,30270-2555,Waymo LLC,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ed590c651fc2b4e,False,Included
+5eaff10802702c1,30270-3010,Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,abe8cab2679e248,False,Included
+5f84ecec46032ea,30412-5241 | 540-5263,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,ae1df9d4513164c,False,Included
+5fbc5372ff3cbb0,30270-10558,Waymo LLC,APR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,788a4eb8ba61f72,False,Included
+608483a735c3efb,30270-4073 | 30531-4081,Transdev Alternative Services | Waymo LLC,SEP-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c6b9fb3009b44fc,False,Included
+61933601d199eeb,30270-8626 | 30531-8648,Transdev Alternative Services | Waymo LLC,AUG-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,99b9ecada3831d4,False,Included
+61aad41dac56bc1,30270-5759 | 30531-5769,Transdev Alternative Services | Waymo LLC,MAY-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2e422d7be58682f,False,Included
+623cbe4cd511622,30412-4960 | 540-4965,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,cca48370ec39081,False,Included
+62c1ea636449cfd,30412-3978 | 540-4019,"Cruise LLC | General Motors, LLC",SEP-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,20fd2beae76defe,False,Included
+6487347c1ac4a6b,30412-5661 | 540-5667,"Cruise LLC | General Motors, LLC",JUN-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,4306ea5c865ff73,False,Included
+64fa0bf7109a79d,30291-7677,Nuro,MAY-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,8b991dd7079a8b7,False,Included
+64ff58c25e10084,30291-7981,Nuro,JUN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2cd83f9a657e9cc,False,Included
+6518984c44dae43,30412-6051 | 540-6057,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,ab05ddf0323cbe2,False,Included
+6640153aa3063d5,30412-5832 | 540-5948,"Cruise LLC | General Motors, LLC",JUN-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,f52ae4d3c8c5c7c,False,Included
+66ee1d58acd3680,12381-3557 | 30330-3561,"Daimler Trucks North America, LLC | TORC Robotics, Inc.",JUL-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,5310696cce8fa26,False,Included
+670484ffbbaf0e4,30410-6792 | 669-6808,Hyundai Motor America | Motional,DEC-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e3e4516cdf04334,False,Included
+6760a5723220425,30270-2552,Waymo LLC,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4c109ee6f767a49,False,Included
+6788b2ddc444d5b,30413-10764,May Mobility,APR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9c5785705dc5d3c,False,Included
+68f0abf9661245e,30711-5675,Pony.ai,JUN-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,cc01aa0f16280f2,False,Included
+69dbcb440688427,30610-9726,"Zoox, Inc.",JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4ad6c03e42653ff,False,Included
+69fffbcf0147ff7,30270-7034 | 30531-7176,Transdev Alternative Services | Waymo LLC,JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b93816a5e99f9bb,False,Included
+6b64e02431595a7,855-3183,"Mercedes-Benz USA, LLC",MAY-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2921d71c8e43ff9,False,Included
+6bc882127d0d3d9,30412-6191 | 540-6199,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,18bb11a2be47074,False,Included
+6c37f91fda20d45,30270-3837 | 30531-3877,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9d4d73bafd748f5,False,Included
+6cbdeb64bd4bc64,30610-3508,"Zoox, Inc.",JUL-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,39dfd67295f44eb,False,Included
+6cc2c65c334671d,30413-7704,May Mobility,APR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,edae6220ea28192,False,Included
+6da6905b2ae0d06,30412-5697 | 540-5726,"Cruise LLC | General Motors, LLC",MAY-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,6eea3cc55df3f29,False,Included
+6e5f7e8fa9a1fcb,30610-6638,"Zoox, Inc.",OCT-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3d94e3931f6113d,False,Included
+6eb8a5394a4b5cc,30530-7891 | 988-7915,"Aurora Operations, Inc. | PACCAR Incorporated",JUN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c17a0b0dda7bae8,False,Included
+6ec340eafed8851,30412-5710 | 540-5731,"Cruise LLC | General Motors, LLC",MAY-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,20fd2beae76defe,False,Included
+6eefb6c4b33df9d,30270-7523 | 30531-7546,Transdev Alternative Services | Waymo LLC,MAR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,374eec2914ce79c,False,Included
+6f14fafb6b8706a,30413-10763,May Mobility,APR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c61027d6b726b73,False,Included
+6f3f2cc44536bfa,30413-8306,May Mobility,JUL-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,edae6220ea28192,False,Included
+6fcf838ccdcebce,30412-6363 | 540-6369,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,66456c29dc6d465,False,Included
+6fe6f968f40e80b,30412-6272 | 540-6307,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,0ffcaf320d0257f,False,Included
+7014e194a75b369,30270-5813 | 30531-5814,Transdev Alternative Services | Waymo LLC,JUN-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4e6dc7156efb5a6,False,Included
+7077c9c68260af9,30413-8218,May Mobility,JUL-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9f25406284e8751,False,Included
+7135acd28a61330,30291-7107,Nuro,JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c191401622c519b,False,Included
+71e0dfa7bd9967b,30412-6041 | 540-6073,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,2cedb48a4023a1b,False,Included
+71ebd2790c0a3b9,30270-2818 | 30531-2822,Transdev Alternative Services | Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f5166bf634e8c45,False,Included
+71f056b0e3d848a,30270-9421 | 30531-9440,Transdev Alternative Services | Waymo LLC,NOV-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,5b2fd709cf91a79,False,Included
+72018a3ed847e4a,30270-10837,Waymo LLC,MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,667985e3549b9f4,False,Included
+72519d84cb48f6e,30792-4714,WeRide Corp,DEC-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,caa76225bb77e79,False,Included
+729291cbc185f73,30270-3255 | 30531-3256,Transdev Alternative Services | Waymo LLC,JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ef101729afc1d68,False,Included
+72fb4226e3fbbf1,30270-6857 | 30531-6864,Transdev Alternative Services | Waymo LLC,NOV-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,87fe10d7d5a1914,False,Included
+736ce3700f7c463,30413-7307,May Mobility,FEB-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4bf81c68fc33bdb,False,Included
+73fa3c3b60dbdec,30414-1540 | 30414-1718,Easymile Inc.,OCT-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,55e7d3bb07f1df3,False,Included
+747a10541edff5d,1420-7671,"Volkswagen Group of America, Inc.",APR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,fe576f7e0cb214e,False,Included
+756c45604ba8bbd,30610-4993,"Zoox, Inc.",FEB-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,726e5fac588ffe8,False,Included
+765d2c91289bd7f,30270-1731 | 30531-1743,Transdev Alternative Services | Waymo LLC,OCT-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,076a0682d278cf7,False,Included
+76e5d31295af2c3,30530-9093 | 988-9119,"Aurora Operations, Inc. | PACCAR Incorporated",OCT-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9c79dca9f5bfa7e,False,Included
+76e9788e6cbf5dc,30412-6038 | 540-6069,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,6178a0ade570ced,False,Included
+773db7d86245192,30291-9651,Nuro,DEC-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,4fcba6753fce2bc,False,Included
+77b0e0470ca0a8a,30270-3628 | 30531-3664,Transdev Alternative Services | Waymo LLC,JUL-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,b5c25ec17ea8588,False,Included
+7b7bc1d6bb1b4e4,30711-6431,Pony.ai,SEP-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a91a58bb751afbb,False,Included
+7c0c1b1cf93259f,30270-5082 | 30531-5088,Transdev Alternative Services | Waymo LLC,FEB-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4dd9f0bc3236236,False,Included
+7caf349415e0dd6,30610-2245,"Zoox, Inc.",JAN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,39dfd67295f44eb,False,Included
+7cc5701d8d54ecb,30270-7310,Waymo LLC,FEB-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,abe8cab2679e248,False,Included
+7e4946ffe5ce559,30270-9232 | 30531-9244,Transdev Alternative Services | Waymo LLC,NOV-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3939a6251560c3b,False,Included
+7e6339198926ba7,30792-1031,WeRide Corp,JUL-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1e795dcf422a758,False,Included
+7efef5aa622ea74,30270-8125 | 30531-8162,Transdev Alternative Services | Waymo LLC,JUN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,240b17854c3702c,False,Included
+7f5142da0d24ab5,30270-3633 | 30531-3663,Transdev Alternative Services | Waymo LLC,JUL-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,778fffc33261129,False,Included
+7f8f08e31baa51a,30610-4383,"Zoox, Inc.",NOV-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e3ca3db6c055516,False,Included
+7fb8af01e45e543,1306-4010 | 30413-3764,May Mobility | Toyota Motor Engineering & Manufacturing,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2d0f63a50d3fd79,False,Included
+803359be848aa10,30270-2168 | 30270-2206,Waymo LLC,JAN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f604b97275349cf,False,Included
+803ff4d1cb60b2e,30610-2651,"Zoox, Inc.",MAR-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,97156a6f45ace72,False,Included
+80f5e3334587177,30412-3581 | 540-3644,"Cruise LLC | General Motors, LLC",JUL-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,80d271b9f0d3d5c,False,Included
+80fa8ac15954395,30290-3347 | 502-3416,Argo AI | Ford Motor Company,JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6e5207a28036baf,False,Included
+810ff5231ba3d6d,30270-2465,Waymo LLC,MAR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,04f736aacb7513d,False,Included
+811ca85e59b1678,30270-6134 | 30531-6136,Transdev Alternative Services | Waymo LLC,JUL-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,145d2b0423aff0c,False,Included
+820ae1b8f89c22d,30610-5716,"Zoox, Inc.",MAY-2023,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,9c8cf765a91f70e,False,Included
+82533cc71dbe287,30270-2553,Waymo LLC,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,fc507050d262298,False,Included
+8298ed805404448,30270-6853 | 30531-6863,Transdev Alternative Services | Waymo LLC,NOV-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0d3e2d7733ecaee,False,Included
+82ab32ab92788c5,30610-10516,"Zoox, Inc.",MAR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,18e0636c317f80e,False,Included
+82ecf2521cd5c8e,30610-7589,"Zoox, Inc.",APR-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,31d0b50db6b4597,False,Included
+837ba2955e69b46,30270-1921 | 30531-1942,Transdev Alternative Services | Waymo LLC,NOV-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4edb4192b29d35b,False,Included
+840c1edd23883ed,30412-3584 | 540-3647,"Cruise LLC | General Motors, LLC",JUL-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,5fa6469be776c73,False,Included
+842ae816e7999c5,30270-7010 | 30531-7022,Transdev Alternative Services | Waymo LLC,DEC-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,68397cbf53d7d3b,False,Included
+84adcad61710498,30412-6598 | 540-6645,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,e397e2a81df4ea8,False,Included
+84e175a3c826442,30270-5429 | 30531-5440,Transdev Alternative Services | Waymo LLC,MAY-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,fa0f9ad09fc1094,False,Included
+853930efe63ba70,30412-5992 | 540-6002,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,c38a8b546fc9775,False,Included
+8563d4571c2a4f2,30391-8984 | 988-9101,Kodiak Robotics | PACCAR Incorporated,OCT-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,de1d6e7b03175e6,False,Included
+857232881f1c3c0,30270-1192 | 30270-1236 | 30531-1200,Transdev Alternative Services | Waymo LLC,SEP-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,885ecf217c72a7b,False,Included
+85bf4a37bd6ec26,30412-5711 | 540-5735,"Cruise LLC | General Motors, LLC",MAY-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,68c0a206981a597,False,Included
+869da998fba268c,30412-6371 | 540-6372,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,7f1dc8a1ad3ab8d,False,Included
+86aa35bdd11ea77,30610-3719,"Zoox, Inc.",AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2401d351bdc80d9,False,Included
+86b4543603ad8af,30412-6042 | 540-6074,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,36e8ffc6b55a39c,False,Included
+8769ad7314aa0a5,30412-6020 | 540-6036,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,fd9caa334f9fbc8,False,Included
+8889dbfa87b1a25,30410-8366 | 669-8495,Hyundai Motor America | Motional,AUG-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,df01372cca14fc6,False,Included
+88ecabe6fd44430,30412-5229 | 540-5261,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,945ed534eba58b1,False,Included
+898ecff58636c86,30610-3320,"Zoox, Inc.",JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,01adc56fe1fe783,False,Included
+89ceac0c6db3833,30610-7292,"Zoox, Inc.",FEB-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,980061bcc82fcbc,False,Included
+8a177e450e8774c,30412-6006 | 540-6011,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,1dd7f97fc9a7470,False,Included
+8a1786924262b79,30270-10642 | 30531-10650,Transdev Alternative Services | Waymo LLC,MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e5b7eeb0f172bcb,False,Included
+8bfa1a0f855252b,30412-4642 | 540-4671,"Cruise LLC | General Motors, LLC",DEC-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,5766dae9b40247d,False,Included
+8c56b788577d262,30270-3655 | 30531-3660,Transdev Alternative Services | Waymo LLC,JUN-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,ec3bbd986bcba9a,False,Included
+8cb088f47f347b4,30412-6395 | 540-6400,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),Serious,Remote only,Injury reported,244abee15187c37,False,Included
+8d5de51bc775cac,30270-8443 | 30531-8448,Transdev Alternative Services | Waymo LLC,AUG-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a17640abc7498b1,False,Included
+8db2e10c839c6b3,30270-2258 | 30270-2359,Waymo LLC,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e900e303012f4e3,False,Included
+8dbb58bde502b36,30290-3119 | 502-2973,Argo AI | Ford Motor Company,MAY-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,27e565631721655,False,Included
+8e7e78cafabfc2e,30270-10596 | 30531-10633,Transdev Alternative Services | Waymo LLC,APR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9ad5fce3469754b,False,Included
+8e7f82326ba47e0,30412-6139 | 540-6152,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,ba7367055695bf8,False,Included
+90144b3b43ae60a,30270-5202 | 30531-5205,Transdev Alternative Services | Waymo LLC,APR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,7c9debf78e8ce32,False,Included
+90c6a1024fa3128,30412-6439 | 540-6454,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,7e019f96f1e1220,False,Included
+919102c28fff2ca,30412-5993 | 540-6003,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,90ac4f6be799da6,False,Included
+91bc2053ec7b4b5,30270-5326 | 30531-5336,Transdev Alternative Services | Waymo LLC,MAR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4d3dc5f194fb109,False,Included
+92abe0be65a945a,30270-1815 | 30270-1872 | 30531-1821,Transdev Alternative Services | Waymo LLC,DEC-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,07333aef835ef03,False,Included
+92adaa2cfbab458,30270-5962 | 30531-5966,Transdev Alternative Services | Waymo LLC,JUN-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b7b40f70f5e3f4f,False,Included
+930d0910bc2916c,30270-1160 | 30270-1220 | 30531-1191,Transdev Alternative Services | Waymo LLC,AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,68397cbf53d7d3b,False,Included
+93ff2213b39d943,30270-1311 | 30531-1327,Transdev Alternative Services | Waymo LLC,AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f6ce80fd458f116,False,Included
+95a921627d947c5,30610-11100,"Zoox, Inc.",MAY-2025,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,5e75c300752833a,False,Included
+96436de08bdb31e,30610-2913,"Zoox, Inc.",APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b945b25a6ee0e06,False,Included
+98395fc467339a6,1420-7995,"Volkswagen Group of America, Inc.",JUN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,356ed66f2e167f3,False,Included
+98652889cf9795e,30610-9138,"Zoox, Inc.",OCT-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,473ebdf4b3aedda,False,Included
+98c716bb1e4b79b,30270-9886 | 30531-10011,Transdev Alternative Services | Waymo LLC,JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,134676bfb4c7ba4,False,Included
+991a08adc8d27c7,30412-6179 | 540-6188,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,659244d6651ee47,False,Included
+9988693979353b9,30270-1729 | 30531-1745,Transdev Alternative Services | Waymo LLC,OCT-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,fe5fa579f66e981,False,Included
+9b9546584c36817,30610-1083,"Zoox, Inc.",JUL-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1db0801a222a5aa,False,Included
+9b9e8318ed96db6,30590-1482,Apple Inc.,SEP-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,259ff2c24c048a1,False,Included
+9bbcc8e37f34850,30412-6269 | 540-6302,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,060a42f327f5862,False,Included
+9be5431de5dfbd1,30270-3595 | 30531-3626,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3d7a03e316ec104,False,Included
+9c542b98eb35e88,30270-3435 | 30531-3445,Transdev Alternative Services | Waymo LLC,JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,400295965fa177c,False,Included
+9d43f7feeb9350e,30270-4707 | 30531-4720,Transdev Alternative Services | Waymo LLC,DEC-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ecc86902e84d762,False,Included
+9e74529d3141c94,30270-6130 | 30531-6137,Transdev Alternative Services | Waymo LLC,JUL-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e15345238f6f0e6,False,Included
+9e854367221d966,30290-2471 | 502-2525,Argo AI | Ford Motor Company,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f4ed5e3d6f6498b,False,Included
+9ea9103079881a1,30270-9593 | 30531-9698,Transdev Alternative Services | Waymo LLC,DEC-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,daba9e03ebb8a2d,False,Included
+9fc2807aedfa970,30391-10295 | 988-10265,Kodiak Robotics | PACCAR Incorporated,MAR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c287a5f63edf401,False,Included
+a031f7256578809,30412-6167 | 540-6304,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),Minor,Remote only,Injury reported,e701c498a606d33,False,Included
+a05277be2462827,1420-7081,"Volkswagen Group of America, Inc.",JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,356ed66f2e167f3,False,Included
+a077d6a8e677ac0,30412-5799 | 540-5805,"Cruise LLC | General Motors, LLC",JUN-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,034a21117b3b8ef,False,Included
+a0a1657627490ce,30610-7110,"Zoox, Inc.",JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b1784ffeed4c799,False,Included
+a106bab6fdac541,30412-6613 | 540-6646,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,c4cd7054251e8c2,False,Included
+a1a3b76299c95c4,30412-6271 | 540-6293,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,855beb2ad4ea0c6,False,Included
+a2d260068d10cc9,30270-3848 | 30531-3882,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3c9d14cc7392a38,False,Included
+a2f72a0435b1c3e,30270-1495 | 30531-1504,Transdev Alternative Services | Waymo LLC,SEP-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,d5bf40bdf0b1c10,False,Included
+a3037ba8b0702a4,30610-3751,"Zoox, Inc.",AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9bdb2d878b5484e,False,Included
+a386703bc6498b9,30270-8343 | 30531-8345,Transdev Alternative Services | Waymo LLC,AUG-2024,In-Vehicle (Commercial / Test),Moderate,In-vehicle only,Injury reported,4b1805e90895d48,False,Included
+a3b36081dcdb405,30412-6181 | 540-6190,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,d1555c584628ca6,False,Included
+a41db12eb07f4d9,30412-6444 | 540-6467,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,8d76c27e317dd45,False,Included
+a497d4cb2c09cee,33495-6720,Apollo Autonomous Driving USA,JUN-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,f9582dac8974093,False,Included
+a5494cc58505ab8,30610-11097,"Zoox, Inc.",MAY-2025,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,345db5f91fcf133,False,Included
+a642239e4ca5b63,31101-7044,Avride Inc.,OCT-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a8e3f4717415d2c,False,Included
+a64835cbf9811d8,30270-2610,Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,d486f6b56e17cbc,False,Included
+a71893002843d10,30270-9911 | 30531-10009,Transdev Alternative Services | Waymo LLC,JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0576c6b8903f5b8,False,Included
+a773c7629437fd1,30412-2884 | 540-2907,"Cruise LLC | General Motors, LLC",APR-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,4306ea5c865ff73,False,Included
+a85a7c4da377987,30270-2551,Waymo LLC,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e0571a62a1ccccb,False,Included
+a8c95cceeb75eda,30412-6242 | 540-6244,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,b5376354c2df3b6,False,Included
+a930be0f965eab9,30610-10511,"Zoox, Inc.",MAR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,11cf7f140115c4a,False,Included
+a9b321d03f6693c,30270-5322 | 30531-5329,Transdev Alternative Services | Waymo LLC,MAR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,7ab5922ee64ed2d,False,Included
+aaac9035f83c66f,30413-5633,May Mobility,MAY-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3bc0e9a23a18e40,False,Included
+aae6306629016ce,30412-6158 | 540-6161,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,8d8f4e03185c26a,False,Included
+ab78822ba620852,30290-1279,Argo AI,AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6d525d9e8ed29e1,False,Included
+ab7ab6695e48c80,1420-7244,"Volkswagen Group of America, Inc.",FEB-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c12327ee8569aa1,False,Included
+ac03faca000d50b,30290-1161 | 502-1163,Argo AI | Ford Motor Company,SEP-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ac9a026c8544e16,False,Included
+ad0dcca9b823fd2,30610-8201,"Zoox, Inc.",JUL-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,f2429255e0858ca,False,Included
+ae16b7a8038ba70,30711-3157,Pony.ai,MAY-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c27390a5d6cc6fa,False,Included
+afac5d277fdfeb9,30270-5817 | 30531-5818,Transdev Alternative Services | Waymo LLC,JUN-2023,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,9f856ec3c68a0d1,False,Included
+b0fe191adb9a766,30610-10251,"Zoox, Inc.",FEB-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3b8ca627dbcef01,False,Included
+b223e677151596a,30270-7954 | 30531-7966,Transdev Alternative Services | Waymo LLC,MAY-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c29b4c11225a765,False,Included
+b26a8024c824bb2,30610-3215,"Zoox, Inc.",JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,31b1818df0c9fce,False,Included
+b35fd97d24c2500,30270-2657,Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,806445927154e05,False,Included
+b371438c0da79a5,30412-5968 | 540-5971,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),Minor,Remote only,Injury reported,32df733dabfb852,False,Included
+b42deb39142d807,30410-9804 | 669-10257,Hyundai Motor America | Motional,FEB-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,48d0706c1e92595,False,Included
+b4618f349040cbb,30270-1613 | 30270-1747 | 30531-1618,Transdev Alternative Services | Waymo LLC,NOV-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c7cd0871d60a651,False,Included
+b4a57672f637bda,30530-6125,"Aurora Operations, Inc.",JUL-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,de0dd48a84018f4,False,Included
+b6c5a51fe02a6c7,30412-2593 | 540-2594,"Cruise LLC | General Motors, LLC",MAR-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,cb78e142f7d9e1d,False,Included
+b6f8c5a9a4cdd22,30530-10791 | 988-10802,"Aurora Operations, Inc. | PACCAR Incorporated",APR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1029b2a7d8c28c9,False,Included
+b70d99b06a1d334,30413-1207,May Mobility,AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,cb6e38b363be262,False,Included
+b77f65c9bc8eab0,30412-6273 | 540-6305,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,969075f5d5d82c1,False,Included
+b87c3d684c9934c,30270-2609,Waymo LLC,MAR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2c7a9a00277e615,False,Included
+b90c9dd7320e24f,30270-1748 | 30270-1779 | 30531-1761,Transdev Alternative Services | Waymo LLC,NOV-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,8d2c8e1b95ad195,False,Included
+b9b7ee2401f7557,30270-3338 | 30531-3342,Transdev Alternative Services | Waymo LLC,JUL-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,61c27e449091005,False,Included
+baeffc44f80381e,30490-1314 | 30830-1297,"Beep, Inc. | Local Motors Industries",AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,89f8993ae749784,False,Included
+bc3cf43a88e0c67,30270-6351 | 30531-6354,Transdev Alternative Services | Waymo LLC,SEP-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,8d2c8e1b95ad195,False,Included
+bd417176f48c034,30412-5836 | 540-5951,"Cruise LLC | General Motors, LLC",JUN-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,e3c57b52e69c059,False,Included
+bd4f1d59062450f,30270-4706 | 30531-4719,Transdev Alternative Services | Waymo LLC,DEC-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3c6f579b1a334dc,False,Included
+bdb5ec9360c174d,30412-5240 | 540-5262,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,6cabc2aab43387d,False,Included
+bdbef5fb68c771f,30412-6159 | 540-6162,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),Moderate,Remote only,Injury reported,83ae19e86bb60d2,False,Included
+bf6c4ac7c86369b,30412-6262 | 540-6290,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,eb7f07c4713eac4,False,Included
+bfe1f6e953a7063,30412-2886 | 540-2926,"Cruise LLC | General Motors, LLC",APR-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,80d271b9f0d3d5c,False,Included
+c0116c0a104d5d3,30270-10971,Waymo LLC,MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c47347e2a1b42ed,False,Included
+c0aefb7adffb8c7,30270-3545 | 30531-3546,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,27c58a6d27dde97,False,Included
+c1366ff879b2e05,30270-2323,Waymo LLC,JAN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ee70d1945e4b3b0,False,Included
+c26d492ac568c12,30270-1,Waymo LLC,JUL-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,27a8308e4525a57,False,Included
+c2fb3fca34e403b,30610-4994,"Zoox, Inc.",FEB-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,15ece5ddb6032f8,False,Included
+c311790f7d74673,30412-6442 | 540-6462,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,df3f7ffd70e93cd,False,Included
+c36f348e47b1a50,30270-9597 | 30531-9697,Transdev Alternative Services | Waymo LLC,DEC-2024,In-Vehicle (Commercial / Test),Moderate,In-vehicle only,Injury reported,0380b55f7b6e3f4,False,Included
+c397f44794adc7e,30410-10855 | 669-10862,Hyundai Motor America | Motional,MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,d6e153c4454ec88,False,Included
+c49c24770dd5ae0,30413-10762,May Mobility,APR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ceebe6bc6835051,False,Included
+c4edae09c5eac62,30412-5848 | 540-5875,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,79066740bd916eb,False,Included
+c50a0a0ffe92c13,30610-6373,"Zoox, Inc.",SEP-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4a82710b2f82662,False,Included
+c548615e4cd4ee2,30270-3636 | 30531-3661,Transdev Alternative Services | Waymo LLC,JUL-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c9e543e540c6f4d,False,Included
+c65deb7d73ffd40,30412-4640 | 540-4670,"Cruise LLC | General Motors, LLC",DEC-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,c96c3a11a1d752c,False,Included
+c68bf3df2aa3e5a,30610-6635,"Zoox, Inc.",OCT-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,51988d6db1dbf10,False,Included
+c68e8513eb8aa59,30610-10999,"Zoox, Inc.",JUN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3eb00c0937ddc01,False,Included
+c78626dd832e68d,30610-10824,"Zoox, Inc.",APR-2025,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,3b8ca627dbcef01,False,Included
+c7ca79c67fa49fe,30610-10055,"Zoox, Inc.",FEB-2025,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,20c78fc9cfced02,False,Included
+c849a0142da5979,30412-5709 | 540-5730,"Cruise LLC | General Motors, LLC",MAY-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,8fe1001f7c3bfc0,False,Included
+c882936e5c7827a,30270-1310 | 30531-1326,Transdev Alternative Services | Waymo LLC,AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,016d002b046c9c8,False,Included
+c91c64b514e62f5,30270-8863 | 30531-8903,Transdev Alternative Services | Waymo LLC,SEP-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,33d60213f3005c0,False,Included
+c961e0fa66063ae,30270-2327,Waymo LLC,JAN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3fa13431ff0349d,False,Included
+c989ea2a212f067,30530-8580 | 988-8592,"Aurora Operations, Inc. | PACCAR Incorporated",SEP-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ee340784e6b5cdb,False,Included
+ca46961b61f690a,30270-2248 | 30270-2358,Waymo LLC,FEB-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6bc8160eed3f36f,False,Included
+ca49a6b2d74e2c0,30291-7361,Nuro,MAR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,445a40a6795ac4f,False,Included
+ca841a9f6911534,30270-6129 | 30531-6138,Transdev Alternative Services | Waymo LLC,JUL-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,d15358998623a2a,False,Included
+ca8c63af9d4185b,30270-3844 | 30531-3881,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1d779bc3c6588a4,False,Included
+cd46839f7e32cc9,30610-4362,"Zoox, Inc.",NOV-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,31b1818df0c9fce,False,Included
+ce612b3607697d1,30412-5101 | 540-5102,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,69a0605270dcfea,False,Included
+d01df3691917979,30412-6281 | 540-6316,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,cad73f6c6d87ae2,False,Included
+d03b4dcbf3cd3bd,30270-8880 | 30531-8904,Transdev Alternative Services | Waymo LLC,SEP-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,600ffbfd70e9dc1,False,Included
+d088b81d0aea602,30270-6529 | 30531-6532,Transdev Alternative Services | Waymo LLC,OCT-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1d6132bddbe10e4,False,Included
+d0d33333ba895d5,1306-1065 | 30413-1130,May Mobility | Toyota Motor Engineering & Manufacturing,JUL-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0eecc7fa6ddc4ad,False,Included
+d1097c7706589a9,30391-4811 | 30391-5009 | 988-4816,Kodiak Robotics | PACCAR Incorporated,FEB-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2309d0a572da37c,False,Included
+d12c87d1e1ad132,30610-9967,"Zoox, Inc.",JAN-2025,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,b03bb4f36cd75a0,False,Included
+d13b625868eb7b9,30414-1391 | 30414-1719,Easymile Inc.,OCT-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4e9cb8fb52e18e3,False,Included
+d19af670c688241,30270-8760 | 30531-8798,Transdev Alternative Services | Waymo LLC,SEP-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,8381bb48f668380,False,Included
+d3012e172ec954c,30270-3220 | 30531-3226,Transdev Alternative Services | Waymo LLC,MAY-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,ff8de7fa92c0d5e,False,Included
+d35bd0a494facfa,30290-2696 | 502-2751,Argo AI | Ford Motor Company,MAR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,238ab9f4a902425,False,Included
+d48b8655a2a347a,30412-6043 | 540-6076,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,1dbaf0db06851fc,False,Included
+d4c09da0782938d,30270-5586 | 30531-5604,Transdev Alternative Services | Waymo LLC,APR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,076a0682d278cf7,False,Included
+d52496957ff39de,30412-6277 | 540-6317,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,ad0c866add9c24e,False,Included
+d54f3de7649b381,30270-3841 | 30531-3879,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c5a24e4de70b2d6,False,Included
+d5770d65e2e965b,30270-7541 | 30531-7548,Transdev Alternative Services | Waymo LLC,MAR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,be94d70cddb6506,False,Included
+d5901cab90a4303,30270-1312 | 30531-1328,Transdev Alternative Services | Waymo LLC,AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,80e3ad40ec485bc,False,Included
+d67503382bbf356,30530-8577 | 988-8593,"Aurora Operations, Inc. | PACCAR Incorporated",AUG-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,84e7fa598f3e83e,False,Included
+d6961ff52ac2e77,30270-10288,Waymo LLC,MAR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,39cc9faced8effe,False,Included
+d8658d11ce22465,30412-6144 | 540-6148,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),Serious,Remote only,Injury reported,cf9688d9a496319,False,Included
+d877dc9952ead25,30610-7578,"Zoox, Inc.",APR-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,2011e07aac8b837,False,Included
+d882789ee7a4ca1,30412-5981 | 540-5990,"Cruise LLC | General Motors, LLC",JUL-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,9821f437fc2ef8c,False,Included
+d91c576aa55da63,30270-3219 | 30531-3225,Transdev Alternative Services | Waymo LLC,MAY-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,8d1fad62a288528,False,Included
+da3505d533e20a5,30610-9759,"Zoox, Inc.",JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,6fa428fb2b42886,False,Included
+db822920fda66b7,30412-2216 | 540-2220,"Cruise LLC | General Motors, LLC",JAN-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,d273b956f145a16,False,Included
+db8ad4a77a26bd8,30270-9893 | 30531-10010,Transdev Alternative Services | Waymo LLC,JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,cdf78379297f7ce,False,Included
+dc0129a4cfa3733,30412-6525 | 540-6531,"Cruise LLC | General Motors, LLC",OCT-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,b70d29f571a8091,False,Included
+dddd801cc7734cb,30412-6268 | 540-6295,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,bd9f3f0db6c5776,False,Included
+de1e4b6864f40ef,30412-3582 | 540-3645,"Cruise LLC | General Motors, LLC",JUL-2022,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,c91a9cfc9714292,False,Included
+de2cefe32ddb0ed,30270-2743,Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,fc507050d262298,False,Included
+df4cd7fa084bc3e,12381-6889 | 30330-6882,"Daimler Trucks North America, LLC | TORC Robotics, Inc.",DEC-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,00141332d0a512b,False,Included
+dfa7cebb30de052,30412-1089,Cruise LLC,JUL-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0e07360d9d38851,False,Included
+e0191bd1f8c9e7e,30412-5828 | 540-5941,"Cruise LLC | General Motors, LLC",JUN-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,96d9d3e8ebe9dde,False,Included
+e02ac2db7471ebc,30711-2862,Pony.ai,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,47e9d5989e5a912,False,Included
+e0563b63e1a8347,30270-3843 | 30531-3880,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,d486f6b56e17cbc,False,Included
+e2bc89b5e8b7784,30610-8377,"Zoox, Inc.",JUL-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,57bcf49fc2dc14e,False,Included
+e3735a4436407e9,30610-4815,"Zoox, Inc.",JAN-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0def0400dbda986,False,Included
+e4608ed0f7e2519,30290-3346 | 502-3413,Argo AI | Ford Motor Company,JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,d9867f090c65889,False,Included
+e4a702ec9aac629,30530-8670 | 988-8810,"Aurora Operations, Inc. | PACCAR Incorporated",SEP-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9c79dca9f5bfa7e,False,Included
+e55e0dbe712106f,30412-6180 | 540-6189,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,d199febbdcd6725,False,Included
+e57b604ec513988,30291-7106,Nuro,JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,00d4592400ec7eb,False,Included
+e5bfa5112083dd7,30610-3703,"Zoox, Inc.",AUG-2022,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,7791e0ea337eaf9,False,Included
+e67b7f9cd19c53f,30412-5036 | 540-5061,"Cruise LLC | General Motors, LLC",FEB-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,a48d7d37bb1de6c,False,Included
+e6e94b9e10d5c39,30270-3437 | 30531-3446,Transdev Alternative Services | Waymo LLC,JUN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1f1e378b74b2187,False,Included
+e77696cb7c077c5,30412-5833 | 540-5950,"Cruise LLC | General Motors, LLC",JUN-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,c620f3994e1de14,False,Included
+e7bf60f9e5a76ca,30270-5762 | 30531-5770,Transdev Alternative Services | Waymo LLC,MAY-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,470966f7d4acb58,False,Included
+e856cba9a39d8d1,30412-5220 | 540-5227,"Cruise LLC | General Motors, LLC",APR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,7ac71fdeaba0467,False,Included
+e8e2e51ebce016a,30610-5232,"Zoox, Inc.",APR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3a51469eb6f2491,False,Included
+e96092613d9dd35,30412-6270 | 540-6294,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),Minor,Remote only,Injury reported,076842eb87a311d,False,Included
+e994365318af0a9,30270-5323 | 30531-5330,Transdev Alternative Services | Waymo LLC,MAR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a25ef0ac6ad29f4,False,Included
+ea43ae9eed8d13b,30530-7475 | 988-7550,"Aurora Operations, Inc. | PACCAR Incorporated",MAR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,eef7ddcb9ef4832,False,Included
+eaaa32d19d1c43f,30270-4074 | 30531-4077,Transdev Alternative Services | Waymo LLC,SEP-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,5fdcce1b9f02689,False,Included
+eb41f5ed6435ed8,30270-7551,Waymo LLC,APR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0b5928ebbbcf89a,False,Included
+eba897229a84611,30412-5430 | 540-5445,"Cruise LLC | General Motors, LLC",MAY-2023,Remote (Commercial / Test),Minor,Remote only,Injury reported,2f2e0e1e0d6ee91,False,Included
+ec207689881d11a,30791-10003,AutoX Technologies Inc,FEB-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1602a5ac42c1fa5,False,Included
+ec72f29fe65a97f,30610-10508,"Zoox, Inc.",MAR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,be60d93b8e54402,False,Included
+ee3530ef1c1d0eb,30270-6839 | 30531-6862,Transdev Alternative Services | Waymo LLC,NOV-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b1a598663322901,False,Included
+ee4ac7ef4aac9d9,30412-5243 | 540-5265,"Cruise LLC | General Motors, LLC",MAR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,6d0328a702d6455,False,Included
+ee7410fb0a17f2e,30610-4215,"Zoox, Inc.",OCT-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,9e82491db35e19c,False,Included
+ee7b4bbad8b4c29,30610-5225,"Zoox, Inc.",MAR-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0d9547747a03581,False,Included
+ef4200310e24064,30270-2605,Waymo LLC,MAR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3f5f631b7210b62,False,Included
+ef4ee437cff079c,30413-9723,May Mobility,JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,4f60d90fd1b82bc,False,Included
+ef640dbe91eb562,30270-4051 | 30531-4079,Transdev Alternative Services | Waymo LLC,SEP-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3f1e3d345cb4788,False,Included
+efaea9d26730376,1306-4390 | 30413-4378,May Mobility | Toyota Motor Engineering & Manufacturing,DEC-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,bfc192427eab6ea,False,Included
+f055ebc4395a187,30270-4710 | 30531-4726,Transdev Alternative Services | Waymo LLC,DEC-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0e6a53c810d6e3f,False,Included
+f094c379022a57b,30610-11099,"Zoox, Inc.",MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,3a51469eb6f2491,False,Included
+f0ae0f1d67d9a27,30634-10693,PlusAI Inc,MAY-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c85cbc0da3b99a9,False,Included
+f1ec18cb75ea63a,30610-7674,"Zoox, Inc.",APR-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b95e440cb6696d4,False,Included
+f23a6e25a67b19d,30610-6950,"Zoox, Inc.",JAN-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,a6a1c689894241a,False,Included
+f33492b4c98bb33,30412-5288 | 540-5297,"Cruise LLC | General Motors, LLC",APR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,66456c29dc6d465,False,Included
+f3593eb7f389b3f,30610-4995,"Zoox, Inc.",FEB-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,15ece5ddb6032f8,False,Included
+f3f7d49a496c366,30270-9454 | 30531-9456,Transdev Alternative Services | Waymo LLC,DEC-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,0b5928ebbbcf89a,False,Included
+f42a0de8300f52e,30412-6282 | 540-6318,"Cruise LLC | General Motors, LLC",AUG-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,b1e924fbcdaf437,False,Included
+f4d487ba374fe26,30270-3852 | 30531-3884,Transdev Alternative Services | Waymo LLC,AUG-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,006bac2ce63f1bf,False,Included
+f6229ea9faa4204,30270-7237 | 30531-7239,Transdev Alternative Services | Waymo LLC,FEB-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,992cd0f994a0437,False,Included
+f64123facf1cd4d,30412-6447 | 540-6472,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,573866dc3315443,False,Included
+f700288ccb3ad35,30290-15 | 502-18,Argo AI | Ford Motor Company,JUL-2021,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,2ad07e63259f51d,False,Included
+f72001a87258c7e,30610-1091,"Zoox, Inc.",AUG-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,68d677c40b0c371,False,Included
+f73e7dccf40f38d,30413-9958,May Mobility,JAN-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c61027d6b726b73,False,Included
+f7cf904127f755d,30413-4352,May Mobility,DEC-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,1c26f99cf0c3b77,False,Included
+f868e3683212511,30412-6438 | 540-6453,"Cruise LLC | General Motors, LLC",SEP-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,938b8120f396850,False,Included
+f8f8385729a3819,30290-1072,Argo AI,JUL-2021,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e021a860c193fa3,False,Included
+f96aa95fcd96be5,30290-4127 | 502-4131,Argo AI | Ford Motor Company,OCT-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,44e401161509e26,False,Included
+f9f2c224be8a261,30270-3625 | 30531-3665,Transdev Alternative Services | Waymo LLC,JUL-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,8110795f6daf529,False,Included
+fa194d70fbd9972,30270-4072 | 30531-4080,Transdev Alternative Services | Waymo LLC,SEP-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2c7a9a00277e615,False,Included
+fa6f0b9dcf1eda3,30610-4814,"Zoox, Inc.",JAN-2023,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,7e7d2e10d098731,False,Included
+fa872bc0a5be40f,30610-8374,"Zoox, Inc.",JUL-2024,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,b49f0b6ed06eb12,False,Included
+fa8eb0357a82255,30270-10639,Waymo LLC,APR-2025,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,04f736aacb7513d,False,Included
+fb21c8dbc9a660d,30270-2329,Waymo LLC,JAN-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,415510c86f8a0cf,False,Included
+fb946bdabf49687,30270-7948 | 30531-7965,Transdev Alternative Services | Waymo LLC,MAY-2024,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,d502a98b8f0cfcf,False,Included
+fd2808a42e30ceb,30270-3009,Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,2a870b4e4109a7b,False,Included
+fdceba88754ba36,30410-5786 | 669-5837,Hyundai Motor America | Motional,JUN-2023,In-Vehicle (Commercial / Test),Minor,In-vehicle only,Injury reported,6dbef6b4d4ef3c4,False,Included
+fdf7cea0641af7a,30412-5460 | 540-5490,"Cruise LLC | General Motors, LLC",APR-2023,Remote (Commercial / Test),No Injuries Reported,Remote only,No injuries reported,4d8656e492fae29,False,Included
+fe401a0077fd15d,30270-2646,Waymo LLC,APR-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,e99629229709aa3,False,Included
+ff1fb0799a4f9e8,30610-4217,"Zoox, Inc.",OCT-2022,In-Vehicle (Commercial / Test),No Injuries Reported,In-vehicle only,No injuries reported,c163af6fd5e1e60,False,Included
