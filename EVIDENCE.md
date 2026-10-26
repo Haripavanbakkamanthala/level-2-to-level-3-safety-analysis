@@ -3,7 +3,7 @@
 **Student:** Hari Pavan Bakkamanthala  
 **Module:** 7033SCN, Coventry University
 
-This repository contains secondary analysis and an illustrative braking simulation prepared with ChatGPT assistance. The original data publishers are NTSB and NHTSA. It does not claim that the student collected the source datasets or validated a vehicle safety intervention.
+This repository contains secondary analysis and an illustrative braking simulation. The original data publishers are NTSB and NHTSA. It does not claim the collected  source datasets or validated a vehicle safety intervention.
 
 ## Start here
 - [Executed Jupyter notebook](analysis.ipynb): 22 code cells, numerical results and embedded charts.
