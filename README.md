@@ -4,7 +4,7 @@
 **Module:** 7033SCN, Coventry University  
 **GitHub account:** Haripavanbakkamanthala
 
-This repository accompanies an academic report. It contains secondary datasets, Python programs, a notebook, cleaning records, statistical outputs and Matplotlib figures. Analysis and documentation were prepared with ChatGPT assistance .
+This repository accompanies an academic report. It contains secondary datasets, Python programs, a notebook, cleaning records, statistical outputs and Matplotlib figures. 
 
 ## Research scope
 Uber Tempe is the single detailed accident case. Its developmental ADS was not an observed commercial Level 2-to-Level 3 upgrade. Its recorder data support descriptive gaze and speed analysis. A separate NHTSA ADS cohort supports an exploratory association test, not a test of whether Level 3 is safer than Level 2.
